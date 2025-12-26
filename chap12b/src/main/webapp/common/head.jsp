@@ -1,0 +1,7 @@
+<%@ page language="java" 
+    pageEncoding="UTF-8"%>
+<head>
+	<meta charset="utf-8">
+	<title>aaa</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
